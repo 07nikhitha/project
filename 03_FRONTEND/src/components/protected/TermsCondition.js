@@ -31,7 +31,7 @@ const TermsCondition = () => {
         </ul>
 
         <h2>4. Your Privacy</h2>
-        <p>At INFO SYS, we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you visit our website or make a purchase.Please read our Privacy Policy section.</p>
+        <p>At QUIK CART, we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you visit our website or make a purchase.Please read our Privacy Policy section.</p>
 
         <h2>5. Limitation of Liability</h2>
         <p>In no event shall our company, nor any of its officers, directors, and employees, be held liable for anything arising out of or in any way connected with your use of this website whether such liability is under contract. Our company, including its officers, directors, and employees shall not be held liable for any indirect, consequential, or special liability arising out of or in any way related to your use of this website.</p>
